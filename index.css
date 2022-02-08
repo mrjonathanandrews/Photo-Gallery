@@ -13,7 +13,8 @@ body {
 .my-gallery {
     display: flex;
     flex-direction: column;    
-    
+    max-width: 600px;
+    margin: auto;
 }
 
 .my-photos {
